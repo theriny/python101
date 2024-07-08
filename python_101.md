@@ -1,5 +1,3 @@
-Sure, here's a basic Python crash course in Markdown format. This file will cover fundamental concepts and examples for someone who is new to Python.
-
 ```markdown
 # Python Basics Crash Course
 

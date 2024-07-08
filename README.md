@@ -1,5 +1,3 @@
-Sure, here's a `README.md` file for installing Jupyter Notebook to practice the tutorials:
-
 ```markdown
 # Jupyter Notebook Installation Guide
 

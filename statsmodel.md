@@ -1,5 +1,3 @@
-Sure, here's a Markdown file for an introduction to using the `statsmodels` library in Python.
-
 ```markdown
 # Introduction to Statsmodels
 

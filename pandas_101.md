@@ -1,5 +1,3 @@
-Certainly! Here's a Markdown file for an introduction to using the `pandas` library in Python.
-
 ```markdown
 # Introduction to Pandas
 

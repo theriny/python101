@@ -1,4 +1,3 @@
-```markdown
 # Jupyter Notebook Installation Guide
 
 This guide will help you install Jupyter Notebook to practice the Python tutorials provided. Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and explanatory text.
@@ -86,6 +85,3 @@ You can add new cells by clicking the "+" button. By default, new cells are code
 ## Conclusion
 
 Congratulations! You've successfully installed Jupyter Notebook. You can now use it to practice the Python tutorials provided. Happy coding!
-```
-
-This `README.md` file provides a comprehensive guide to installing and using Jupyter Notebook for practicing Python tutorials.

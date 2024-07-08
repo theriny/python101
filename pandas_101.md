@@ -1,4 +1,3 @@
-```markdown
 # Introduction to Pandas
 
 Pandas is a powerful and flexible data analysis library for Python. It provides data structures and functions needed to manipulate structured data seamlessly.
@@ -192,6 +191,3 @@ plt.show()
 This introduction covers the basics of using Pandas for data manipulation and analysis. Pandas is a powerful tool, and exploring its extensive documentation and practicing with real datasets will help you master it.
 
 Happy analyzing!
-```
-
-Feel free to expand on each section with more examples or additional details as needed.

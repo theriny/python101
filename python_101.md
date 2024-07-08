@@ -1,4 +1,3 @@
-```markdown
 # Python Basics Crash Course
 
 Welcome to the Python Basics Crash Course! This guide will help you get started with Python, one of the most popular programming languages.
@@ -281,6 +280,3 @@ while count < 3:
 ## Conclusion
 
 Congratulations! You've covered the basics of Python. Keep practicing by working on small projects and exploring more advanced topics. Happy coding!
-```
-
-Feel free to adjust or expand upon this crash course to suit your needs!

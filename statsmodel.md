@@ -1,4 +1,4 @@
-```markdown
+
 # Introduction to Statsmodels
 
 Statsmodels is a powerful Python library for estimating and performing statistical models. It provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests and statistical data exploration.
@@ -182,7 +182,5 @@ sm.graphics.qqplot(model.resid, line='45', fit=True)
 
 Statsmodels is a comprehensive library for statistical modeling and hypothesis testing in Python. By exploring its extensive documentation and applying it to your data, you can perform sophisticated statistical analyses.
 
-Happy modeling!
-```
 
-Feel free to expand on each section with more examples or additional details as needed.
+Happy modeling!
